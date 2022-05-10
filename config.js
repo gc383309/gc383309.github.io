@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '88dbe02da4855068777d9eb525ae82c7', // Write here your API Key
@@ -51,7 +51,7 @@ const CONFIG = {
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	
-firstButtonsContainer: [
+// firstButtonsContainer: [
 		{
 			id: '1',
 			name: 'Github',
@@ -90,7 +90,7 @@ firstButtonsContainer: [
 		},
 	],
 
-	secondButtonsContainer: [
+//	secondButtonsContainer: [
 		{
 			id: '1',
 			name: 'Music',
