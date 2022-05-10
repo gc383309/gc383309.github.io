@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '88dbe02da4855068777d9eb525ae82c7', // Write here your API Key
@@ -50,8 +50,7 @@ const CONFIG = {
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
-	
- firstButtonsContainer: [
+	firstButtonsContainer: [
 		{
 			id: '1',
 			name: 'Github',
@@ -62,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://gmail.com',
+			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
@@ -78,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Anime',
+			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://gogoanime.nl',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'Youtube',
+			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://youtube.com',
+			link: 'https://odysee.com/',
 		},
 	],
 
@@ -105,7 +104,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Discord',
+			name: 'bot',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
